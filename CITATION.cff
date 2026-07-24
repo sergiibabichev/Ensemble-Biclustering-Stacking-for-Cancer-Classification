@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as described below."
+title: "Biclustering-Driven Feature Engineering for Robust Cross-Platform Generalization in Transcriptomic Cancer Classification"
+type: software
+version: 1.0.0
+date-released: 2026-07-24
+authors:
+  - family-names: "Babichev"
+    given-names: "Sergii"
+    orcid: "https://orcid.org/0000-0001-6797-1467"
+repository-code: "https://github.com/sergiibabichev/Ensemble-Biclustering-Stacking-for-Cancer-Classification.git"
+license: "MIT"
